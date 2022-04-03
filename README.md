@@ -2,10 +2,7 @@
 
 This is the website to publish the academic practise on Data Visualization. 
 
-
-![image](https://github.com/xiaolin-ye/Meteorite.github.io/blob/main/fig/Historical%20Fallen%20Meteorites.png)
-
-
+![Voronoi_chart](/Meteorite.github.io/assets/Historical%20Fallen%20Meteorites.png)
 
 ### Data
 
