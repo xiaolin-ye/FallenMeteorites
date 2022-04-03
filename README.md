@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+## Historical Fallen Meteorites
 
 This is the website to publish the academic practise on Data Visualization. 
+
+
+![image](https://github.com/xiaolin-ye/Meteorite.github.io/blob/main/fig/Historical%20Fallen%20Meteorites.png)
+
+
 
 ### Data
 
@@ -21,8 +26,3 @@ https://github.com/xiaolin-ye/Meteorite.github.io/tree/main/data
 The visualization generating code is done with Python and can be found in the repositoy:
 
 https://github.com/xiaolin-ye/Meteorite.github.io/blob/main/src/voronoi_chart.py
-
-### Result
-
-![image](https://github.com/xiaolin-ye/Meteorite.github.io/blob/main/fig/Historical%20Fallen%20Meteorites.png)
-
