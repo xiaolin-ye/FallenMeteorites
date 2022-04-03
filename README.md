@@ -8,5 +8,5 @@ https://www.kaggle.com/datasets/nasa/meteorite-landings
 
 ### Result
 
-![plot](fig/Historical Fallen Meteorites.png)
+![alt text](https://github.com/xiaolin-ye/Meteorite.github.io/blob/main/fig/Historical%20Fallen%20Meteorites.png)
 
