@@ -1,8 +1,8 @@
-# Welcome to GitHub Pages
+## Welcome to GitHub Pages
 
 This is the website to publish the academic practise on Data Visualization. 
 
-## Data
+### Data
 
 The meteorite dataset used was downloaded from Kaggle:
 
@@ -16,12 +16,12 @@ Access the repository to see the files:
 
 https://github.com/xiaolin-ye/Meteorite.github.io/tree/main/data
 
-## Coding
+### Coding
 
 The visualization generating code is done with Python and can be found in the repositoy:
 
 https://github.com/xiaolin-ye/Meteorite.github.io/blob/main/src/voronoi_chart.py
 
-## Result
+### Result
 
 ![alt text](https://github.com/xiaolin-ye/Meteorite.github.io/blob/main/fig/Historical%20Fallen%20Meteorites.png)
