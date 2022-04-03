@@ -1,8 +1,6 @@
 ## Historical Fallen Meteorites
 
-This is the website to publish the academic practise on Data Visualization. 
-
-![voronoi_chart](https://github.com/xiaolin-ye/Meteorite.github.io/blob/main/fig/Historical%20Fallen%20Meteorites.png)
+This is the website to publish the academic practise on Data Visualization. ![voronoi_chart](https://github.com/xiaolin-ye/Meteorite.github.io/blob/main/fig/Historical%20Fallen%20Meteorites.png)
 
 ### Data
 
