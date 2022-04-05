@@ -2,7 +2,7 @@
 
 This is the website to publish the academic practise on Data Visualization. 
 
-![voronoi_chart](../fig/Historical%20Fallen%20Meteorites.png)
+![voronoi_chart](fig/Historical%20Fallen%20Meteorites.png)
 
 ### Data
 
